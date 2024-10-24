@@ -1,0 +1,17 @@
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BL.deps.json
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BL.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BL.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_ADO.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BE.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_ADO.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BE.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.csproj.AssemblyReference.cache
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.AssemblyInfoInputs.cache
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.AssemblyInfo.cs
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.csproj.CoreCompileInputs.cache
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHote.5A3C82DA.Up2Date
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\refint\ProyHotel_BL.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ref\ProyHotel_BL.dll

@@ -1,0 +1,15 @@
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_ADO.deps.json
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_ADO.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_ADO.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_BE.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_BE.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.csproj.AssemblyReference.cache
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.AssemblyInfoInputs.cache
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.AssemblyInfo.cs
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.csproj.CoreCompileInputs.cache
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHote.EF60520F.Up2Date
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\refint\ProyHotel_ADO.dll
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.pdb
+C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ref\ProyHotel_ADO.dll
