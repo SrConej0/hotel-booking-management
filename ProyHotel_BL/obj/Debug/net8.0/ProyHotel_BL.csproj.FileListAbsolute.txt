@@ -15,3 +15,21 @@ C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\refint\ProyHotel_BL.dll
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.pdb
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BL\obj\Debug\net8.0\ref\ProyHotel_BL.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BL.deps.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BL.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BL.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_ADO.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_ADO.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\bin\Debug\net8.0\ProyHotel_BE.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.csproj.AssemblyReference.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.AssemblyInfoInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.AssemblyInfo.cs
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.sourcelink.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHote.5A3C82DA.Up2Date
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\refint\ProyHotel_BL.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ProyHotel_BL.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BL\obj\Debug\net8.0\ref\ProyHotel_BL.dll

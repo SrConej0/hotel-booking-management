@@ -32,3 +32,38 @@ C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.pdb
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.genruntimeconfig.cache
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_GUI\obj\Debug\net8.0-windows\ref\ProyHotel_GUI.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_GUI.exe
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_GUI.dll.config
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_GUI.deps.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_GUI.runtimeconfig.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_GUI.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_GUI.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_ADO.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_BL.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_BE.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_BL.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\bin\Debug\net8.0-windows\ProyHotel_ADO.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.csproj.AssemblyReference.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.Form1.resources
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.csproj.GenerateResource.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.AssemblyInfoInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.AssemblyInfo.cs
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.sourcelink.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHote.13062477.Up2Date
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\refint\ProyHotel_GUI.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ProyHotel_GUI.genruntimeconfig.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_GUI\obj\Debug\net8.0-windows\ref\ProyHotel_GUI.dll

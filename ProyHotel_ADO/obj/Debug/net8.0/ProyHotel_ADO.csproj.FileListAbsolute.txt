@@ -13,3 +13,19 @@ C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\refint\ProyHotel_ADO.dll
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.pdb
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_ADO\obj\Debug\net8.0\ref\ProyHotel_ADO.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_ADO.deps.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_ADO.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_ADO.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\bin\Debug\net8.0\ProyHotel_BE.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.csproj.AssemblyReference.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.AssemblyInfoInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.AssemblyInfo.cs
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.sourcelink.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHote.EF60520F.Up2Date
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\refint\ProyHotel_ADO.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ProyHotel_ADO.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_ADO\obj\Debug\net8.0\ref\ProyHotel_ADO.dll

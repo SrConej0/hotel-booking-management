@@ -9,3 +9,15 @@ C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BE\obj\Debug\net8.0\refint\ProyHotel_BE.dll
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.pdb
 C:\DarkSystem\isil\4\Aplicaciones I\PROYECTO\hotel-booking-management\ProyHotel_BE\obj\Debug\net8.0\ref\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\bin\Debug\net8.0\ProyHotel_BE.deps.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\bin\Debug\net8.0\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\bin\Debug\net8.0\ProyHotel_BE.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.AssemblyInfoInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.AssemblyInfo.cs
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.csproj.CoreCompileInputs.cache
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.sourcelink.json
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\refint\ProyHotel_BE.dll
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ProyHotel_BE.pdb
+D:\Desarrollo de aplicaciones I\Git\ProyHotel_BE\obj\Debug\net8.0\ref\ProyHotel_BE.dll
